@@ -33,17 +33,17 @@ Windows系统建议使用V2rayN，界面简洁大气且支持Vmess和Shadowsocks
   
 - 安卓系统
 
-V2rayNG 1.1.15[下载](https://wwo.lanzoul.com/iSg3E1ryl2hi) ----- bifrostV-v0.6.8[下载](https://wwo.lanzoul.com/izvuX1ryl2gh)
+  V2rayNG 1.1.15[下载](https://wwo.lanzoul.com/iSg3E1ryl2hi) ----- bifrostV-v0.6.8[下载](https://wwo.lanzoul.com/izvuX1ryl2gh)
   
 - 路由系统
 - Linux系统
-Github[下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+  Github[下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 - 其他常用app下载
-[点我去下载](/app)
+  [点我去下载](/app)
   
 - 其他常用问题解答
-[点我去查看](/qa)
+  [点我去查看](/qa)
 
 
 

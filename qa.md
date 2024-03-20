@@ -2,7 +2,7 @@
 
 ## Q1： 怎么连不上？
 
-A1： 如果按照教程搞完了还上不去的话，可以参考此链接自查：<a target="_blank" href="https://blog.tszs.cc/23.html">https://blog.tszs.cc/23.html </a> \
+A1： 如果按照教程搞完了还上不去的话，可以参考此链接自查：<a target="_blank" href="https://blog.tszs.cc/23.html">https://blog.tszs.cc/23.html </a>
 
 ## Q2： iOS小火箭如何下载？
 
@@ -17,4 +17,4 @@ A3: Windows强烈建议使用Clsh，Mac强烈推荐使用ClashX，iOS强烈推�
 
 ## twitter下载地址：
 
-<a target="_blank" href="https://androidapksfree.com/twitter/com-twitter-android/download-old/twitter-9-31-1-apk">点我去下载</a></h2>
+<a target="_blank" href="https://androidapksfree.com/twitter/com-twitter-android/download-old/twitter-9-31-1-apk">点我去下载</a>

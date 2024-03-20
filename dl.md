@@ -4,7 +4,7 @@
 
 V2Ray是近几年兴起的科学上网技术，采用新的协议，因功能强大、能有效抵抗墙的干扰而广受好评。V2Ray官网是 <https://v2ray.com>，目前已无法直接打开.
 
-因Github在国内打开和下载速度很慢，本站提供Windows(PC/电脑)、Android(安卓)、Mac(苹果电脑)和iOS(iphone/ipad)的最新版V2ray客户端的供网友下载。V2Ray的安装部署及流量伪装请参考：[V2Ray教程](/2363) 和 [V2Ray高级技巧：流量伪装](/2369).
+因Github在国内打开和下载速度很慢，本站提供Windows(PC/电脑)、Android(安卓)、Mac(苹果电脑)和iOS(iphone/ipad)的最新版V2ray客户端的供网友下载。V2Ray的安装部署及流量伪装请参考：[V2Ray教程](2363) 和 [V2Ray高级技巧：流量伪装](2369).
 
 ## window平台
 
@@ -40,7 +40,7 @@ Windows系统建议使用V2rayN，界面简洁大气且支持Vmess和Shadowsocks
   Github[下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 - 其他常用app下载
-  [点我去下载](/app)
+  [点我去下载](app)
   
 - 其他常用问题解答
   [点我去查看](qa)

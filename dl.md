@@ -43,7 +43,7 @@ Windows系统建议使用V2rayN，界面简洁大气且支持Vmess和Shadowsocks
   [点我去下载](/app)
   
 - 其他常用问题解答
-  [点我去查看](/qa)
+  [点我去查看](qa)
 
 
 

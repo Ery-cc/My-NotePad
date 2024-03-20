@@ -6,7 +6,7 @@ V2Ray是近几年兴起的科学上网技术，采用新的协议，因功能强
 
 因Github在国内打开和下载速度很慢，本站提供Windows(PC/电脑)、Android(安卓)、Mac(苹果电脑)和iOS(iphone/ipad)的最新版V2ray客户端的供网友下载。V2Ray的安装部署及流量伪装请参考：[V2Ray教程](2363) 和 [V2Ray高级技巧：流量伪装](2369).
 
-## window平台
+window平台
 
 Windows系统建议使用V2rayN，界面简洁大气且支持Vmess和Shadowsocks.
 

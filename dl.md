@@ -10,7 +10,7 @@
 
 - 64位系统
   
-  clash <a target="_blank" href="https://gouziyun.lanzoul.com/iw3hS08xzqib">下载</a>、
+  clash <a target="_blank" href="https://gouziyun.lanzoul.com/iw3hS08xzqib">下载</a> 、
   V2rayN <a target="_blank" href="https://wwo.lanzoul.com/inBHB1ryumoj">下载</a>
 
 - Mac系统(Intel芯片-i3,i5,i7等)

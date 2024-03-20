@@ -21,7 +21,7 @@
 
 
 
-
+<div>
 <script src="https://yzf.qq.com/xv/web/static/chat_sdk/yzf_chat.min.js"></script>
   <script>
     //参数说明
@@ -46,3 +46,4 @@
     })
     //window.yzf.close() 关闭1已打开的回话窗口
 </script>
+</div>

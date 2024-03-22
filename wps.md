@@ -56,3 +56,5 @@ WPSOffice2019专业版终身授权序列号（都是企业政府版内部序列�
 THUV2-32HH7-6NMHN-PTX7Y-QQCTH
 7QT24-2CXCD-37MJF-2GMKQ-NPHFD
 ```
+### WPS Office 2013 绿色专业版|安装版
+[点这里下载](wps2013)

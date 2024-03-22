@@ -45,6 +45,7 @@ AI2020软件运行要求：Windows 8 , Windows 10 或更高版64位
 AI2019安装程序和软件运行要求：Windows 7 或更高版64位
 
 下载地址 
+
 2024版本 [123网盘下载](https://www.123pan.com/s/A6cA-rKAJh) , [百度网盘下载1](https://pan.baidu.com/s/19g-tL6-E0qqwbySJaG7cgQ?pwd=2023) , [百度网盘下载2](https://pan.baidu.com/s/1hJZtjUWLQ-RGV5CGGKPO8w?pwd=2023)
 
 

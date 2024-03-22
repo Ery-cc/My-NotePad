@@ -1,4 +1,7 @@
-# 科学上网常用软件下载
+# 常用软件下载
+[PS下载](ps) , [AI下载](ai) , [AE下载](ae) , [PR下载](pr) , [CDR下载](cdr) , [OFFICE下载](office) , [WPS下载](wps)
+
+[科学上网软件下载](dl) , [clash全平台下载](dl)
 
 默认密码（如有）: 0000，解压软件[下载](https://wwo.lanzoul.com/ik8KH1ryv98b) .
 

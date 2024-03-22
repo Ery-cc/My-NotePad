@@ -1,6 +1,8 @@
 ## 常用Adobe 设计软件下载
 [PS下载](ps) , [AI下载](ai) , [AE下载](ae) , [PR下载](pr) , [CDR下载](cdr) , [OFFICE下载](office) , [WPS下载](wps)
 
+[科学上网软件下载](dl) , [clash全平台下载](dl)
+
 解压软件[下载](https://wwo.lanzoul.com/ik8KH1ryv98b)
 
 Adobe图像处理软件 Photoshop 2024 正式版 (25.6.0) 2024年3月更新版.Adobe Photoshop 2024破解版(简称PS)是一款全球流行的专业图像处理软件及照片和设计软件.Adobe Photoshop中文破解版是Adobe Creative Cloud 创意云桌面程序中心的图形设计软件热门产品,它是平面设计领域和数字图象处理行业标准.
